@@ -1,0 +1,2 @@
+*.json filter=lfs diff=lfs merge=lfs -text
+DistanceCalc/data/Bačkaitis_Giedrius_IFF-7_5_data6.json filter=lfs diff=lfs merge=lfs -text
